@@ -1,0 +1,13 @@
+*{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+html, body{
+    background: #ef0b0b85;
+}
+
+h1{
+    font-size: 10vh;
+}
